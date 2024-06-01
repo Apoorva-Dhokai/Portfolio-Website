@@ -1,7 +1,0 @@
-/node_modules
-.next
-.vscode
-.env
-.env.production
-.env.staging
-.env.development
