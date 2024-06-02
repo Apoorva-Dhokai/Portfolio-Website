@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⭐ Personal Portfolio Website ⭐
 
 > [Deployed here](https://vaheedshaik.tech/)
@@ -74,3 +75,6 @@ When you're ready, create a new pull request to merge your changes:
 - 👀 Await review and address any feedback.
 
 Thank you for contributing to this repo! Together, we can make it even better. 😄🚀
+=======
+# Portfolio-Website
+>>>>>>> 610319edddacb4d8f660da052c6c059bc31c7de5
